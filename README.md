@@ -33,7 +33,7 @@ This tutorial outlines the implementation of on-premises Active Directory within
 <img src="https://i.imgur.com/SGnQyMq.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Setup Resources In Azure by creating my VM Domain controller (Windows 10)
+Setup Resources In Azure by creating my VM Domain controller (Windows 10).
 </p>
 <br />
 
@@ -60,7 +60,7 @@ Installed Active Directory.
 <img src="https://i.imgur.com/w2hASI9.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Promote as a DC (Domain Controller) by Setting up a new forest.
+Promote as a DC (Domain Controller) by setting up a new forest.
 </p>
 <br />
 
@@ -68,7 +68,7 @@ Promote as a DC (Domain Controller) by Setting up a new forest.
 <img src="https://i.imgur.com/PMWj9aV.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Create an Admin/Normal User Account in Active Directory
+Create an Admin/Normal User Account In Active Directory.
 </p>
 <br />
 
@@ -76,7 +76,7 @@ Create an Admin/Normal User Account in Active Directory
 <img src="https://i.imgur.com/PP3Y9My.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Joined Client 1 to domain
+Joined Client 1 to domain.
 </p>
 <br />
 
@@ -84,7 +84,7 @@ Joined Client 1 to domain
 <img src="https://i.imgur.com/Ik9FisW.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-From the Azure Portal, I set Client-1’s DNS settings to the DC’s Private IP address
+From the Azure Portal, I set Client-1’s DNS settings to the DC’s Private IP address.
   
   - DNS (Domain Name System) turns domain names into IP addresses
   
@@ -97,7 +97,7 @@ From the Azure Portal, I set Client-1’s DNS settings to the DC’s Private IP 
 <img src="https://i.imgur.com/vfoxY7i.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Setup Remote Desktop for non-administrative users on Client-1 VM
+Setup Remote Desktop for non-administrative users on Client-1 VM.
 </p>
 <br />
 
@@ -105,7 +105,7 @@ Setup Remote Desktop for non-administrative users on Client-1 VM
 <img src="https://i.imgur.com/4cZwKUB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Created a bunch of additional users
+Created a bunch of additional users.
 
 </p>
 <br />
