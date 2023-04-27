@@ -94,14 +94,6 @@ From the Azure Portal, I set Client-1’s DNS settings to the DC’s Private IP 
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Set client-1 DNS TO DC'S prive ip
-</p>
-<br />
-
-<p>
 <img src="https://i.imgur.com/vfoxY7i.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
